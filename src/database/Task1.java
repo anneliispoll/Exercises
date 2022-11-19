@@ -31,6 +31,8 @@ public class Task1 {
             read(con);
 
              */
+
+            // I'm adding test comment for git
             drop(con);
             create(con);
             insert(con, "Harry Potter", "Fantasy", 2001);
